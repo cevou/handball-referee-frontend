@@ -1,0 +1,38 @@
+:root {
+  --green1: #088a46;
+  --green2: #48b95e;
+  --green3: #aad357;
+  --red1: #c01e2e;
+  --red2: #ec1941;
+  --red3: #f15257;
+  --orange1: #f78234;
+  --orange2: #f6a125;
+  --orange3: #fdb132;
+  --darkblue1: #00263c;
+  --darkblue2: #063e67;
+  --blue1: #2a579c;
+  --blue2: #0181c9;
+  --blue3: #00aef3;
+  --white: #ffffff;
+  --grey1: #e1e1e1;
+  --grey2: #cccccc;
+  --grey3: #888888;
+  --black: #000000;
+
+  --header-bg-color: var(--blue1);
+  --header-color: var(--white);
+  --menu-bg-color: var(--darkblue1);
+
+  --border-dark-color: var(--darkblue1);
+  --btn-bg-color: var(--darkblue2);
+
+  --theme-dark-color: var(--blue1);
+  --theme-color: var(--blue2);
+  --theme-light-color: var(--blue3);
+
+  --tracking-bg-color: var(--blue3);
+  --tracking-btn-color: var(--green3);
+  --tracking-btn-border-color: var(--green1);
+
+  --shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}

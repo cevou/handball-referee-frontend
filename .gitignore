@@ -1,4 +1,5 @@
 .idea
 dist
+dist-beach
 node_modules
 .vscode/

@@ -1,0 +1,80 @@
+@import "../shared.css";
+
+.stat-question {
+  background-color: var(--white);
+  box-shadow: var(--shadow);
+
+  display: grid;
+
+  grid-template-columns: 2rem auto 4rem 7rem;
+  grid-template-rows: auto;
+
+  grid-template-areas:
+    "icon number box result"
+    "content content content content";
+
+  & > div, & > svg {
+    padding: 0.5rem;
+  }
+
+  & > svg {
+    justify-self: center;
+    color: var(--theme-light-color);
+    grid-area: icon;
+  }
+
+  & .number {
+    grid-area: number;
+  }
+
+  & .box {
+    justify-self: center;
+
+    & > svg {
+      font-size: 0.875rem;
+      margin-right: 0.5rem;
+    }
+  }
+
+  & .result {
+    grid-area: result;
+    text-align: center;
+    color: #ffffff;
+
+    &.empty {
+      background-color: var(--grey2);
+      color: var(--grey3);
+    }
+
+    &.bad {
+      background-color: var(--red3);
+    }
+
+    &.ok {
+      background-color: var(--orange3);
+    }
+
+    &.good {
+      background-color: var(--green1);
+    }
+  }
+
+  & .content {
+    grid-area: content;
+
+    & .text {
+      padding: 0.5rem;
+    }
+
+    & .options {
+      display: grid;
+
+      grid-template-columns: 2rem auto;
+      grid-template-rows: auto;
+
+      & > div {
+        padding: 0.25rem 0.5rem;
+      }
+    }
+  }
+}

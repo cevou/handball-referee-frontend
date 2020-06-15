@@ -1,0 +1,66 @@
+{
+  "translation": {
+    "app": {
+      "title": "Beach Handball Referee",
+      "language": "Language",
+      "toggle-menu": "Toggle Menu",
+      "quicknav": "Quick Navigation"
+    },
+    "correct": "correct",
+    "Reset": "Reset",
+    "menu": {
+      "test": "Referee Test",
+      "rules": "Rules of the Game",
+      "stats": "Statistics",
+      "about": "About"
+    },
+    "rules": {
+      "foreword": "Foreword",
+      "rules": "Rules of the Game",
+      "rule": {
+        "rule1": "Playing Court",
+        "rule2": "Start of the Game, Playing Time, Final Signal, Time-out and Team Time-out",
+        "rule3": "The Ball",
+        "rule4": "The Team, Substitutions, Equipment",
+        "rule5": "The Goalkeeper",
+        "rule6": "The Goal Area",
+        "rule7": "Playing the Ball, Passive Play",
+        "rule8": "Fouls and Unsportsmanlike Conduct",
+        "rule9": "Scoring and Deciding the Outcome of the Game",
+        "rule10": "The Referee Throw",
+        "rule11": "The Throw-In",
+        "rule12": "The Goalkeeper Throw",
+        "rule13": "The Free Throw",
+        "rule14": "The 6-Meter Throw",
+        "rule15": "General Instructions for the Execution of the Throws",
+        "rule16": "The Punishments",
+        "rule17": "The Referees",
+        "rule18": "The Timekeeper and the Scorekeeper"
+      },
+      "hand-signals": "Hand Signals",
+      "clarifications": "Clarifications to the Rules of the Game",
+      "sar": "Substitution Area Regulations",
+      "athlete-uniform-regulations": "Athlete Uniform Regulations",
+      "sand-quality-and-lighting-regulations": "Sand Quality and Lighting Regulations",
+      "glossary": "Glossary of Terms",
+      "edition": "Edition: 8 July 2014",
+      "source": "Source: https://www.ihf.info/sites/default/files/2019-05/0_09%20-%20Rules%20of%20the%20Game%20%28Beach%20Handball%29_GB.pdf"
+    },
+    "rulestest": {
+      "question": "Question",
+      "check": "Check",
+      "next": "Next",
+      "overall": "Overall",
+      "relevant-rules": "Relevant Rules"
+    },
+    "stats": {
+      "overall": "Overall",
+      "asked": "answered",
+      "correct": "correct"
+    },
+    "privacy": {
+      "accept": "Accept",
+      "decline": "Decline"
+    }
+  }
+}

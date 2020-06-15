@@ -6,6 +6,8 @@
   "scripts": {
     "build": "rimraf dist && webpack -p --config webpack.config.js",
     "server": "webpack-dev-server -d",
+    "build-beach": "rimraf dist-beach && webpack -p --config webpack-beach.config.js",
+    "server-beach": "webpack-dev-server -d --config webpack-beach.config.js",
     "release": "standard-version",
     "lint": "eslint --ext .ts --ext .tsx src",
     "test": "jest"

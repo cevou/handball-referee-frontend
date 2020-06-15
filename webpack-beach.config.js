@@ -9,7 +9,7 @@ const LoadablePlugin = require("@loadable/webpack-plugin");
 const marked = require("marked");
 
 const appPath = path.resolve(__dirname, "src");
-const buildPath = path.resolve(__dirname, "dist");
+const buildPath = path.resolve(__dirname, "dist-beach");
 const markdownRenderer = new marked.Renderer();
 
 markdownRenderer.heading = function (text, level, raw, slugger)
@@ -25,7 +25,7 @@ markdownRenderer.heading = function (text, level, raw, slugger)
 const config = {
   context: appPath,
   entry: {
-    client: './indoor/app.tsx',
+    client: './beach/app.tsx',
   },
   output: {
     path: buildPath,
@@ -42,7 +42,7 @@ const config = {
       {
         test: /\.[jt]sx?$/,
         include: [/src/, /node_modules\/idb/],
-        exclude: ["/node_modules/", "/src/beach/"],
+        exclude: ["/node_modules/", "/src/indoor/"],
         use: "babel-loader",
       },
       {
@@ -57,7 +57,7 @@ const config = {
           },
           "postcss-loader"
         ],
-        exclude: ["/src/beach/"],
+        exclude: ["/src/indoor/"],
       },
       {
         test: /\.md$/,
@@ -70,7 +70,7 @@ const config = {
             }
           }
         ],
-        exclude: ["/src/beach/"],
+        exclude: ["/src/indoor/"],
       },
       {
         test: /\.png|\.svg$/,
@@ -78,7 +78,7 @@ const config = {
         options: {
           outputPath: 'static',
         },
-        exclude: ["/src/beach/"],
+        exclude: ["/src/indoor/"],
       },
     ],
   },
@@ -93,20 +93,20 @@ const config = {
   plugins: [
     new EnvironmentPlugin(['SENTRY_DSN', 'SENTRY_ENV', 'GA_TRACKING_ID']),
     new HtmlWebpackPlugin({
-      template: "indoor/index.html",
+      template: "beach/index.html",
     }),
     new CopyPlugin([
       {
         from: "data/questions/*",
-        context: path.resolve(__dirname, 'src', 'indoor'),
+        context: path.resolve(__dirname, 'src', 'beach'),
       },
       {
-        from: "indoor/static/*",
-        to: "static/",
+        from: "beach/static/*",
+        to: "static",
         flatten: true
       },
       {
-        from: "indoor/favicon.ico",
+        from: "beach/favicon.ico",
       },
     ]),
     new GenerateSW({
@@ -124,7 +124,8 @@ const config = {
   ],
   devServer: {
     historyApiFallback: true,
-    host: '0.0.0.0'
+    host: '0.0.0.0',
+    port: '8081'
   },
   devtool: "source-map"
 };

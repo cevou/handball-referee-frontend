@@ -1,0 +1,71 @@
+@import "../shared.css";
+
+#test-header {
+  height: 1.5rem;
+}
+
+#test-header svg {
+  margin-right: 1rem;
+  color: #063e67;
+}
+
+#test-content {
+  overflow: auto;
+  padding: 1rem;
+
+  & button {
+    background-color: var(--btn-bg-color);
+    border: 1px solid var(--border-dark-color);
+    color: var(--white);
+    margin-top: 1rem;
+    font-size: 1rem;
+    padding: 0.25rem 0.5rem;
+    cursor: pointer;
+
+    &:hover {
+      background-color: var(--menu-bg-color);
+    }
+  }
+}
+
+.box-with-header {
+  & > h2 {
+    margin: 0;
+    color: var(--header-color);
+    font-size: 1rem;
+    padding: 0.5rem;
+    background-color: var(--header-bg-color);
+    display: inline-block;
+    box-shadow: var(--shadow);
+  }
+}
+
+.box-with-header > div, #test-options > div, #test-header {
+  background-color: var(--white);
+  box-shadow: var(--shadow);
+  padding: 1rem;
+}
+
+#test-options {
+  margin-top: 1rem;
+
+  & .option {
+    display: flex;
+
+    &.correct {
+      background-color: var(--green3);
+    }
+
+    &.wrong {
+      background-color: var(--red3);
+    }
+
+    & .check {
+      flex: 0 0 2rem;
+    }
+
+    & .text {
+      flex-grow: 1;
+    }
+  }
+}

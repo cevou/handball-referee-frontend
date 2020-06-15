@@ -1,0 +1,1489 @@
+[
+  {
+    "id": "1.1",
+    "question": "A2 tries to score inflight and lands inside the opponents’ goal area after the shot. He runs and leaves the court beyond the sideline of the goal area. When he is out A4 enters the court to substitute for him.",
+    "answers": {
+      "a": "Normal. Nothing illegal",
+      "b": "Time-out. Suspension to A2. Free-throw for team B from the point that A4 enters the court.",
+      "c": "Time-out. Suspension to A2. Free-throw for team B 1m outside his goal area.",
+      "d": "Time-out. Suspension to A4. Free-throw for team B from the point that he enters the court."
+    }
+  },
+  {
+    "id": "1.2",
+    "question": "G/K B1 is playing as court player and tries to shoot on goal. He lands in the opponents’ goal area and he leaves the court beyond the sideline of the goal area. When he is out G/K B3 enters the court and saves the direct shot on goal of G/K A1.",
+    "answers": {
+      "a": "Timeout. Suspension to B1. 6m-throw for team A.",
+      "b": "Time-out. Suspension to B3. 6m-throw for team A.",
+      "c": "Time-out. Suspension to B1. Free-throw for team A.",
+      "d": "Play on. G/K-throw for team B."
+    }
+  },
+  {
+    "id": "1.3",
+    "question": "G/K A1 is playing as court player and tries to shoot on goal. He lands in the opponents’ goal area and he leaves the court beyond the sideline of the goal area. When he is out, G/K A3, who was not in his team substitution area but he was sitting outside of his goal area side line, enters the court and saves the direct shoot on goal of G/K B1.",
+    "answers": {
+      "a": "Timeout. Suspension to A1. 6m-throw for team B.",
+      "b": "Time-out. Suspension to A3. 6m-throw for team B.",
+      "c": "Time-out. Suspension to A1. Free-throw for team B.",
+      "d": "Play on. G/K-throw for team A."
+    }
+  },
+  {
+    "id": "1.4",
+    "question": "What are the correct dimensions of the playing area?",
+    "answers": {
+      "a": "20m long X 15m wide.",
+      "b": "15m long X 12m wide.",
+      "c": "27m long X 15m wide.",
+      "d": "27m long X 12m wide."
+    }
+  },
+  {
+    "id": "1.5",
+    "question": "What are the correct dimensions of the playing court?",
+    "answers": {
+      "a": "30m long X 20m wide.",
+      "b": "27m long X 15m wide.",
+      "c": "27m long X 12m wide.",
+      "d": "27m long X 17m wide."
+    }
+  },
+  {
+    "id": "1.6",
+    "question": "What are the correct dimensions of the goals?",
+    "answers": {
+      "a": "3m interior width X 2m interior height.",
+      "b": "3m width to the outer side of the goalposts X 2m interior height.",
+      "c": "2m interior width X 3m interior height.",
+      "d": "3.16m width to the outer sides of the goalposts X 2.08m height to the upper side of the crossbar."
+    }
+  },
+  {
+    "id": "2.1",
+    "question": "The timekeeper gave the final signal for the half time too early. The referees keep the players on the court in order to play the remaining time. Team B was in possession of the ball.",
+    "answers": {
+      "a": "Team B will remain in possession of the ball when the game resumes.",
+      "b": "The game will restart with a referee throw.",
+      "c": "A coin toss will decide.",
+      "d": "Team B will restart with goalkeeper throw."
+    }
+  },
+  {
+    "id": "2.2",
+    "question": "Free-throw for team B just 1 second before the end of half-time. G/K B3 executes the throw direct on goal after the whistle signal and when the ball is 2m away from the goal line the final signal sounds. The ball enters the goal.",
+    "answers": {
+      "a": "Two points goal for team B.",
+      "b": "The game is over with the final signal. No goal.",
+      "c": "The throw must be retaken.",
+      "d": "6m –throw for team B as it was a clear chance of scoring."
+    }
+  },
+  {
+    "id": "2.3",
+    "question": "In the following situations a time out is obligatory:",
+    "answers": {
+      "a": "Disqualification.",
+      "b": "Suspension of a player.",
+      "c": "Suspension of an official.",
+      "d": "6m- throw."
+    }
+  },
+  {
+    "id": "2.4",
+    "question": "Team time-out for team B. A5 who is standing outside of the playing court is guilty of an assault.",
+    "answers": {
+      "a": "Verbal warning for Α5.",
+      "b": "Suspension to Α5. Team A will restart with one player less.",
+      "c": "Disqualification to Α5. Team A will continue with 4 players. Report.",
+      "d": "Disqualification to Α5. Team A will restart with one player less. Report."
+    }
+  },
+  {
+    "id": "2.5",
+    "question": "Free-throw for team A at the end of the first half. The score is 18-6 for team B. A5 who is standing 40cm from the correct position of the free-throw hands the ball to the referees showing that they are not interested in trying to score.",
+    "answers": {
+      "a": "The referees must correct the place and whistle for the free-throw.",
+      "b": "The referees consider the free-throw taken.",
+      "c": "Suspension to A5 for unsportsmanlike conduct.",
+      "d": "Suspension to A5 for unsportsmanlike conduct. Repeat the free-throw after the whistle."
+    }
+  },
+  {
+    "id": "2.6",
+    "question": "A7 is serving a suspension while team B is in possession of the ball. The ball goes out and the referee whistles for a throw-in for team A. Before the game restart A7 enters the court.",
+    "answers": {
+      "a": "Time-out. New suspension for A7 which results in a disqualification to A7. Throw-in for team A.",
+      "b": "Time-out. New suspension to A7 which results in a disqualification to A7. Free-throw for team B.",
+      "c": "Normal. Nothing illegal.",
+      "d": "Time-out. Disqualification to A7. Throw-in for team B."
+    }
+  },
+  {
+    "id": "2.7",
+    "question": "During the team time-out for team B, A2 is protesting against the referees off the court and is guilty for serious unsportsmanlike conduct. When the game was stopped it was throw-in for team B.",
+    "answers": {
+      "a": "Suspension to A2. The game restarts with throw-in for team B. Team A reduces by one the number of players.",
+      "b": "Disqualification to A2. Report. The game restarts with throw-in for team B. Team A reduces by one the number of players.",
+      "c": "Only Report. The action was during Team time-out and off the court.",
+      "d": "Disqualification to A2. Report. Team A restarts the game with 4 players. The game restarts with throw-in for team B."
+    }
+  },
+  {
+    "id": "2.8",
+    "question": "Team time-out for team B. A3 and A5 enters the court as 5th and 6th players to give some water to their teammates.",
+    "answers": {
+      "a": "Normal. Nothing illegal.",
+      "b": "Suspension to A3. Team A reduces by one the number of players. Free –throw for team B.",
+      "c": "Suspension to A3 and A5. Team A reduces by one the number of players by two. Free-throw for team B.",
+      "d": "Suspension to the “responsible team official” of team A. Team A reduces by one the number of players. Free-throw for team B."
+    }
+  },
+  {
+    "id": "2.9",
+    "question": "While team B is in possession of the ball, official A of team B requests the Team time-out and the timekeeper whistles. Before the referees whistle the time-out B3 shoot on goal and scores. At this moment the referees whistle for the Team time-out.",
+    "answers": {
+      "a": "Goal for team B. Team time-out for team B. Restart with G/K-throw for team A.",
+      "b": "No goal. Team time-out for team B. Restart with free-throw for team B.",
+      "c": "Goal for team B. No Team time-out. Restart with G/K-throw for team A.",
+      "d": "No goal. No Team time-out. 6m-thow for team B."
+    }
+  },
+  {
+    "id": "2.10",
+    "question": "While team A was in possession of the ball and the ball was in play the timekeeper whistles for an infringement. Before the referees realized the situation, whistle for a 6m-throw for team A and disqualification to B2. After 2/3 seconds they realized the situation.",
+    "answers": {
+      "a": "Time-out. The referees go to the timekeeper and take action for the infringement. The 6m-throw and the disqualification to B2 are invalid.",
+      "b": "Time-out. The referees go to the timekeeper and take action for the infringement. 6m-throw is invalid and disqualification to B2 is valid.",
+      "c": "Time-out. The referees go to the table and take action for the infringement. 6m-throw and disqualification to B2 are valid.",
+      "d": "Time-out. The referees go to the timekeeper and take action for the infringement. The 6m-throw is valid and the disqualification to B2 is invalid."
+    }
+  },
+  {
+    "id": "2.11",
+    "question": "The playing time at the beginning of the game or second half time begins when:",
+    "answers": {
+      "a": "The ball leaves the hand of the referee.",
+      "b": "The ball reached its highest point.",
+      "c": "The referee whistles.",
+      "d": "Any player touches the ball."
+    }
+  },
+  {
+    "id": "2.12",
+    "question": "Just before the final signal for the end of the game the referees whistle a free-throw for team A. After the final signal while preparing for the execution of the throw official B of team A is protesting and is guilty for an assault against the timekeeper.",
+    "answers": {
+      "a": "Disqualification to official B. Report. Execution of the free-throw for team A.",
+      "b": "Disqualification to official B. Report. End of the game.",
+      "c": "No punishment, only Report for official B. Free-throw for team B.",
+      "d": "Suspension to official B. Execution of the free-throw for team A."
+    }
+  },
+  {
+    "id": "2.13",
+    "question": "When is the timekeeper required to stop the official clock immediately, without awaiting a confirmation from the referees?",
+    "answers": {
+      "a": "Team time-out.",
+      "b": "Disqualification of an official.",
+      "c": "Whistle signal from the timekeeper or the delegate.",
+      "d": "Consultations between the referees."
+    }
+  },
+  {
+    "id": "3.1",
+    "question": "How many regulation balls must be available prior to each game?",
+    "answers": {
+      "a": "At least 3.",
+      "b": "4.",
+      "c": "At least 4.",
+      "d": "3."
+    }
+  },
+  {
+    "id": "4.1",
+    "question": "Official A of team A announces the players list with 6 names on it but only 5 of those are present on the court (1 g/k and 4 court players) at the moment of the start of the match. Official A informs the table that the player is delayed, and he will be identified as soon as he arrives. What should be the referees’ decision?",
+    "answers": {
+      "a": "The match starts and team A will be completed during the match.",
+      "b": "The match will not start, and B is the winner.",
+      "c": "The match will start only if the other team agrees."
+    }
+  },
+  {
+    "id": "4.2",
+    "question": "How many players of the same team can be marked as goalkeepers at the same time?",
+    "answers": {
+      "a": "1.",
+      "b": "2.",
+      "c": "3.",
+      "d": "No limit."
+    }
+  },
+  {
+    "id": "4.3",
+    "question": "A7 is suspended. Team B is in possession of the ball and before a turnover A7 enters the court. The referee whistles and stops the game.",
+    "answers": {
+      "a": "Time out. Second suspension for A7. Free throw for team B.",
+      "b": "Disqualification for A7.  Free throw for team B. Team A must be further reduced on court.",
+      "c": "Time out. Additional suspension which causes a disqualification of A7.  Team A must be further reduced on court. Free-throw for team B.",
+      "d": "No more punishment because of “Fair play”."
+    }
+  },
+  {
+    "id": "4.4",
+    "question": "Serious unsportsmanlike conduct by the team official A of team A. The referee whistles and stops the game.",
+    "answers": {
+      "a": "Time out. Suspension of official A. Team A must be reduced on court. Free throw for team B.",
+      "b": "Time out. Suspension of official A. Free throw for team B.",
+      "c": "Disqualification of official A. The official must leave the court. No further report.",
+      "d": "Time out. Disqualification of official A. Team A must be reduced on court. The official must leave the court. Free throw for team B. Report to the tournament authorities."
+    }
+  },
+  {
+    "id": "4.5",
+    "question": "A5, B2 and B4 are three players who -wearing socks- want to participate in the game.",
+    "answers": {
+      "a": "Wearing socks and bandages is permitted.",
+      "b": "Only one player of each team may play.",
+      "c": "No. This is not permitted.",
+      "d": "This is possible only if both referees agree."
+    }
+  },
+  {
+    "id": "4.6",
+    "question": "Shootout situation. Team A has only 4 players eligible to play. Team A executed the 4 throws and scored 8 points. Team B executed 4 throws and scored 5 points, but they have one more throw. At this moment A1 is disqualified for serious unsportsmanlike conduct. The organizers had announced that all the throws must be executed even if the result of the game is already decided.",
+    "answers": {
+      "a": "The game is over. Team A has now only 3 players eligible to play.",
+      "b": "Team B is the winner with 2-0.",
+      "c": "Team A is the winner with 2-1 since team B has no chance to win.",
+      "d": "Team B will execute the 5th throw for the final score."
+    }
+  },
+  {
+    "id": "4.7",
+    "question": "A5 scores a goal after advantage and B5 receives a suspension. G/K B1 executes the goalkeeper-throw and passes the ball to B2 3m outside of his goal area line. At this moment B3 enters the court near the opponents’ goal area as a fourth player and the table whistles for illegal entering of the court.",
+    "answers": {
+      "a": "Time-out. Suspension to B3. Free-throw for team A from the place that B3 entered the court. Team B will restart with two players less.",
+      "b": "Time-out. Suspension to B3. Free-throw for team A from where the ball was at the interruption. Team B will restart with one player less.",
+      "c": "Time-out. Suspension to B3. Free-throw for team A next to the table. Team B will restart with one player less.",
+      "d": "Time-out. Suspension to B3. Free-throw for team A from where the ball was at the interruption. Team B will restart with two players less."
+    }
+  },
+  {
+    "id": "4.8",
+    "question": "The referee stops the game while team A is in possession of the ball and whistles a time-out because B3 was injured. A4 enters the court as a fifth player to give water to A5.",
+    "answers": {
+      "a": "Normal. Nothing illegal.",
+      "b": "Suspension to A4. Team A reduces by one the number of players. The game restarts with free-throw for team B.",
+      "c": "Verbal warning.",
+      "d": "Suspension to A4. Team A reduces by one the number of players. The game restarts with free-throw for team A."
+    }
+  },
+  {
+    "id": "4.9",
+    "question": "6m-throw for team A and suspension to B3. A2 executes the throw, G/K B1 saves and the ball crosses the sideline. At this moment B5 first and B3 second enter the court at the same time.",
+    "answers": {
+      "a": "Suspension to B5. Throw-in for team A. Team B will play with two players less.",
+      "b": "Suspension to B5 and second suspension to B3. Disqualification to B3. Throw-in for team A. Team B will play with two players less.",
+      "c": "Suspension to B5. Free-throw for team A. Team B will play with two players less.",
+      "d": "Suspension to B5 and second suspension to B3. Disqualification to B3. Free-throw for team A. Team B will play with two players less."
+    }
+  },
+  {
+    "id": "4.10",
+    "question": "The referees stop the game because A4 is bleeding. A4 leaves the court in order to have the bleeding stopped. After a while he was ready to enter the court but before he entered, the referee who was next to him, told him that he must cover the wound. After some seconds A4 enters the court with correct substitution but the referees see that he continues bleeding and the wound is uncovered.",
+    "answers": {
+      "a": "Time-out from the referees. A4 leaves the court again. No punishment. Free-throw for team B.",
+      "b": "Time-out. Suspension to A4. Free-throw for team B. Team A reduces by one the number of players.",
+      "c": "Time-out. Suspension to the “responsible team official” of team A. Free-throw for team B. Team A reduces by one the number of players."
+    }
+  },
+  {
+    "id": "4.11",
+    "question": "The players are not permitted to wear:",
+    "answers": {
+      "a": "Face mask.",
+      "b": "Head protection.",
+      "c": "Earrings.",
+      "d": "Support braces for knee/elbow/foot.",
+      "e": "Glasses without restraining bands."
+    }
+  },
+  {
+    "id": "4.12",
+    "question": "While it was a throw-in for team A, the referees stop the game because A9 is injured and gives permission to the persons of team A to enter the court. Officials A and B run on the court to assist the injured player and after some seconds official C, who is the doctor of the team enters the court to assist the player too.",
+    "answers": {
+      "a": "Normal. Nothing illegal because official C is the doctor.",
+      "b": "Suspension to official C. Team A reduces the number of players. Free- throw for team B.",
+      "c": "Suspension to official C. Team A reduces by one the number of players. Throw-in for team A.",
+      "d": "Suspension to the “responsible team official” of team A. Team A reduces by one the number of players. Throw-in for team A."
+    }
+  },
+  {
+    "id": "4.13",
+    "question": "6m-throw for team B. After the time-out the referees give permission to the officials of team B to enter the court because B3 is injured. Officials A and C enter the court and while official C is assisting the injured player, official A gives instructions to his players B2 and B5.",
+    "answers": {
+      "a": "Normal. Nothing illegal.",
+      "b": "Suspension to official A. The game restarts with the 6m-throw for team B.",
+      "c": "Suspension to official A. The game restarts with free-throw for team A.",
+      "d": "Suspension to official A, B2 and B5. The game restarts with the 6m-throw for team B."
+    }
+  },
+  {
+    "id": "4.14",
+    "question": "Throw-in for team A. After time-out the referee gives permission to officials of team B to enter the court because B2 is injured. Official A and official D enter the court and while official A is assisting the injured player, official D approaches opponent players and the referees and protests for a serious foul.",
+    "answers": {
+      "a": "Suspension to official D. Team B reduces the number of players by one. Restart with the throw-in for team A.",
+      "b": "Suspension to official D. Team B reduces the number of players by one. Restart with free-throw for team A.",
+      "c": "Suspension to official D. Team B restarts the game with 4 players. The game restarts with throw-in for team A.",
+      "d": "Normal. Nothing illegal."
+    }
+  },
+  {
+    "id": "4.15",
+    "question": "A7 is suspended. Team A is in possession of the ball and before a turnover A7 enters the court. The referee whistles and stops the game.",
+    "answers": {
+      "a": "Time out. Second suspension for A7 which causes a disqualification of A7. Free throw for team B. Team A restarts the game with 3 players on court.",
+      "b": "Disqualification for A7. Free throw for team B. Team A must be further reduced on court.",
+      "c": "Time out. Additional suspension which causes a disqualification of A7.  Team A must be further reduced on court. Free-throw for team B",
+      "d": "No more punishment because of “Fair play”."
+    }
+  },
+  {
+    "id": "4.16",
+    "question": "Team A has only 6 players in the score sheet at the beginning of the game. A8 who arrives late and is not entered in the score sheet, enters the court after correct substitution and the timekeeper whistles and interrupts the game.",
+    "answers": {
+      "a": "Time-out. Suspension to A8. A8 is allowed to be entered in the score sheet. Free-throw for team B. Team A reduces the number of players by one.",
+      "b": "Time-out. Suspension to the “responsible team official” of team A. A8 is allowed to be entered in the score sheet. Free-throw for team B. Team A reduces the number of players by one.",
+      "c": "Time-out. Disqualification to A8. Free-throw for team B. Team A reduces the number of players by one.",
+      "d": "Time-out. Suspension to the “responsible team official” of team A. A8 is not allowed to enter in the score sheet because he was not present at the beginning of the game. Free-throw for team B. Team A reduces the number of players by one."
+    }
+  },
+  {
+    "id": "4.17",
+    "question": "Officials A and B of team A are nominated to remain in the substitution area. During the first half official C who is designated as the “responsible team official” wants to replace official B and remains in the substitution area to have better contact with the table and referees.",
+    "answers": {
+      "a": "No problem, since all are on the score sheet.",
+      "b": "Official C must wait until the end of the first half.",
+      "c": "It is not allowed to replace officials after the beginning of the game.",
+      "d": "It is only allowed if the “responsible team official” of team B accepts."
+    }
+  },
+  {
+    "id": "4.18",
+    "question": "Who is entitled to address the referees during the game?",
+    "answers": {
+      "a": "Only the respective “responsible team officials”.",
+      "b": "Only the respective coaches.",
+      "c": "Only the respective officials A.",
+      "d": "No one."
+    }
+  },
+  {
+    "id": "5.1",
+    "question": "G/K B12 executes a goalkeeper-throw. He throws the ball correctly to score a goal and he runs outside of his goal area. The ball hits the goal post of team A and returns to the playing area. B12 catches the ball in flight and scores a goal.",
+    "answers": {
+      "a": "2 points goal for team B.",
+      "b": "3 points goal because he is G/K and scores in flight.",
+      "c": "Free-throw for team A where B12 touched the ball.",
+      "d": "Suspension of B12 and Goalkeeper-throw for team A."
+    }
+  },
+  {
+    "id": "5.2",
+    "question": "A2 shoots on goal and G/K B1 saves, the ball goes back to the playing area. Then G/K B1 runs and touches the ball again when A3 is ready to catch the ball and the goal is empty.",
+    "answers": {
+      "a": "Free-throw for team A.",
+      "b": "Free-throw for team A and suspension to B1.",
+      "c": "6m-throw for team A.",
+      "d": "Normal. Nothing illegal."
+    }
+  },
+  {
+    "id": "5.3",
+    "question": "G/K A1 saves a shot on goal and the ball is rolling in the goal area. B3 is ready to dive for the ball, but G/K A1 runs and catches the ball inside his goal area. G/K A1 starts a fast attack, but with his speed he crosses the goal area line with one foot and then passes the ball to A3 who scores a goal.",
+    "answers": {
+      "a": "Goal for team A.",
+      "b": "G/K- throw for team A.",
+      "c": "Free-throw for team B outside the goal area line of team A.",
+      "d": "6m-throw for team B."
+    }
+  },
+  {
+    "id": "5.4",
+    "question": "G/K B4 controls the ball in his goal area.  The referees whistle for the execution. Then G/K B4 runs with the ball outside the area and passes the ball to B2 who scores a goal.",
+    "answers": {
+      "a": "Repetition of the G/K- throw after a whistle",
+      "b": "Goal for team B.",
+      "c": "Free-throw for team A. Suspension to B4.",
+      "d": "Free-throw for team A."
+    }
+  },
+  {
+    "id": "5.5",
+    "question": "The ball is stationary just outside of the goal area of team A. G/K A1 who is inside his goal area plays the ball to A7 who scores a goal with spin shoot.",
+    "answers": {
+      "a": "Free-throw for team B.",
+      "b": "2p goal for team A.",
+      "c": "G/K-throw for team A after the whistle.",
+      "d": "6m-throw for team B."
+    }
+  },
+  {
+    "id": "5.6",
+    "question": "G/K B1 is standing in his goal area and when the ball is rolling in the playing area he takes the ball, passes it to B5 who scores inflight.",
+    "answers": {
+      "a": "2 point goal for team B.",
+      "b": "Free-throw for team A.",
+      "c": "G/K-throw for team B after whistle.",
+      "d": "6m-throw for team A."
+    }
+  },
+  {
+    "id": "5.7",
+    "question": "A2 passes the ball to G/K A7 in the playing area just outside of his goal area line. G/K A7 controls the ball while B3 defends correctly. G/K A7 enters his goal area to avoid B3.",
+    "answers": {
+      "a": "Normal. Nothing illegal. G/K-throw for team A.",
+      "b": "6m-throw for team B.",
+      "c": "Free-throw for team B.",
+      "d": "Free-throw for team B. Suspension to A7."
+    }
+  },
+  {
+    "id": "5.8",
+    "question": "G/K A1 saves the ball after a shot and the ball is moving out towards the playing area. He runs and plays the ball with his foot, inside the goal area, and the ball crosses the sideline of the playing area.",
+    "answers": {
+      "a": "Throw-in for team B.",
+      "b": "Free-throw for team B.",
+      "c": "Free-throw for team B. Suspension to A1.",
+      "d": "G/K-throw for team A after the whistle."
+    }
+  },
+  {
+    "id": "6.1",
+    "question": "2 is ready to execute a 6m-throw. He’s standing in the correct position.  After the referee’s whistle one of his feet slides on the sand and crosses the goal area line just before the ball has left his hand. He throws the ball and scores a goal.",
+    "answers": {
+      "a": "Goal.",
+      "b": "Repeat the 6m-throw.",
+      "c": "Goalkeeper-throw for team B.",
+      "d": "Free throw for team B."
+    }
+  },
+  {
+    "id": "6.2",
+    "question": "A5 is in possession of the ball outside of his goal area. He tries to give a long pass to A3 but the ball slides out of his hand and goes back, hits the goalpost of his team and returns into the playing area to A7.",
+    "answers": {
+      "a": "Free-throw for team B.",
+      "b": "Goalkeeper-throw for team A.",
+      "c": "Play on."
+    }
+  },
+  {
+    "id": "6.3",
+    "question": "B2 shoots on goal and A4 acting in defense touches the ball and then G/K A1 catches the ball in his goal area. A1 throws the ball directly at the goal of team B and scores.",
+    "answers": {
+      "a": "No goal. Free-throw for team B 1m away from the goal area line of team A.",
+      "b": "No goal. G/Keeper-throw for team A after the whistle.",
+      "c": "2 points goal for team A.",
+      "d": "No goal. Time-out. Suspension to A4. Free-throw for team B 1m away from the goal area line."
+    }
+  },
+  {
+    "id": "7.1",
+    "question": "A3 passes the ball to A4 who takes the ball and puts it on the ground for 5 seconds. Then he picks it up and scores a goal.",
+    "answers": {
+      "a": "Goal.",
+      "b": "Free throw for team B.",
+      "c": "Goalkeeper-throw for team B.",
+      "d": "Free throw for team A."
+    }
+  },
+  {
+    "id": "7.2",
+    "question": "The ball is on the sand and A2 is standing next to it. B3 dives for it from a distance of 2-3m away, plays it and scores.",
+    "answers": {
+      "a": "Suspension to B3 (for endangering the opponent) and free-throw for team A.",
+      "b": "Free throw for team A.",
+      "c": "Goal.",
+      "d": "No goal. Goalkeeper-throw for team A."
+    }
+  },
+  {
+    "id": "7.3",
+    "question": "A3 is in possession of the ball in the playing area. He throws the ball high in the air to the direction of the opponent’s goal area, he runs 5-6 meters, jumps, catches the ball and scores in flight.",
+    "answers": {
+      "a": "2-points goal for team A.",
+      "b": "Free-throw for team B.",
+      "c": "1-point goal for team A.",
+      "d": "G/K throw for team B."
+    }
+  },
+  {
+    "id": "7.4",
+    "question": "G/K A5 is in possession of the ball and tries to attack. He shot on goal and the ball hit the back of the referee who was running in front of him. While the ball is on the air, he runs 3m, catches the ball and scores in flight.",
+    "answers": {
+      "a": "Free-throw for team B.",
+      "b": "2-points goal for team A.",
+      "c": "Free-throw for team B, suspension to A5.",
+      "d": "G/K–throw for team B, suspension to A5."
+    }
+  },
+  {
+    "id": "7.5",
+    "question": "Team A is in possession of the ball without making any attempt to attack. The referees have shown the forewarning signal for passive play and when they are ready to whistle, team A requests a team time-out correctly and the timekeeper whistles.",
+    "answers": {
+      "a": "After the restart of the game the forewarning signal is still valid and should be shown again.",
+      "b": "After the restart of the game the referees must whistle immediately free-throw for team B.",
+      "c": "Team A is allowed to start their attack from the beginning.",
+      "d": "Team A must complete the attack within 15 seconds."
+    }
+  },
+  {
+    "id": "7.6",
+    "question": "Team A is in possession of the ball and the referees show the forewarning signal for passive play. A3 shoots on goal, G/K B1 saves and the ball crosses the sideline.",
+    "answers": {
+      "a": "Throw-in for team A. The forewarning signal is still valid and should be shown again. Team A has at least 5 seconds to build-up a new phase.",
+      "b": "Throw-in for team A. The forewarning signal is still valid and should be shown again. Team A has at least 10 passes to build-up a new phase.",
+      "c": "Throw-in for team A. The forewarning signal is to be stopped. Team A is allowed to build-up a new phase from the beginning.",
+      "d": "Throw-in for team A. The forewarning signal is still valid and should be shown again. Team A has at least 10 seconds to build-up a new phase."
+    }
+  },
+  {
+    "id": "7.7",
+    "question": "Team B is in possession of the ball and the referees show the forewarning signal for passive play. B6 shoots at the goal, G/K A1 saves and the ball returns to B2 in the playing area.",
+    "answers": {
+      "a": "The forewarning signal should be shown again. Team B has at least 5 seconds to build-up a new phase.",
+      "b": "The forewarning signal should be shown again. Team B has at least 10 passes to build-up a new phase.",
+      "c": "The forewarning signal is to be stopped. Team B is allowed to build-up a new phase from the beginning.",
+      "d": "The forewarning signal should be shown again. Team B has at least 10 seconds to build-up a new phase."
+    }
+  },
+  {
+    "id": "7.8",
+    "question": "Team B is in possession of the ball and the referees show the forewarning signal for passive play. The referees are ready to whistle for passive play and at this moment A5 attacks B2 who was in possession of the ball and pushes him down. The referee whistles a free-throw for team B and suspends A5.",
+    "answers": {
+      "a": "The forewarning signal is still valid and should be shown again. Team B has at least seconds 5 to build-up a new phase.",
+      "b": "The forewarning signal is still valid and should be shown again. Team B has at least 10 passes to build-up a new phase.",
+      "c": "The forewarning signal is still valid and should be shown again. Team B  has at least 10 seconds to build-up a new phase.",
+      "d": "The forewarning signal is to be stopped. Team B is allowed to build-up a new phase from the beginning."
+    }
+  },
+  {
+    "id": "7.9",
+    "question": "Team A is in possession of the ball and the referees show the forewarning signal for passive play. After some seconds official A of team B is guilty of unsportsmanlike conduct. The referee whistles, stops the game and suspends official A. Free-throw for team A.",
+    "answers": {
+      "a": "The forewarning signal is still valid and should be shown again. Team A has at least seconds 5 to build-up a new phase.",
+      "b": "The forewarning signal is still valid and should be shown again. Team A has at least 10 passes to build-up a new phase.",
+      "c": "The forewarning signal is still valid and should be shown again. Team A has at least 10 seconds to build-up a new phase.",
+      "d": "The forewarning signal is to be stopped. Team A is allowed to build-up a new phase from the beginning."
+    }
+  },
+  {
+    "id": "7.10",
+    "question": "Team A is in possession of the ball and the referees show the forewarning signal for passive play. A3 shoots at the goal, the defending players block and the ball crosses the sideline.",
+    "answers": {
+      "a": "Throw-in for team A. The forewarning signal is still valid and should be shown again as a reminder.",
+      "b": "Throw-in for team A. The forewarning signal should be shown again. Team A has at least 10 passes to build-up a new phase.",
+      "c": "Throw-in for team A. The forewarning signal is to be stopped. Team A is allowed to build-up a new phase from the beginning.",
+      "d": "Throw-in for team A. The forewarning signal is still valid and should be shown again. Team A has at least 10 seconds to build-up a new phase."
+    }
+  },
+  {
+    "id": "7.11",
+    "question": "Team A is in possession of the ball and the referees showed the forewarning signal for passive play. A2 who has the ball on the left side, just outside the goal area line tries to pass the ball to A4 who is in the center of the court and at this moment the referee whistles for passive play. The ball goes to A4 who puts the ball down. B3 runs, takes the ball, shoots on goal and scores.",
+    "answers": {
+      "a": "Goal for team B.",
+      "b": "No goal. Repetition of the free-throw for team B after whistle from the point where A4 puts the ball down.",
+      "c": "No goal. Repetition of the free-throw for team B, after whistle, from the spot where the ball was when the play was interrupted.",
+      "d": "No goal. Free-throw for team A from the spot where B3 executes the free-throw."
+    }
+  },
+  {
+    "id": "8.1",
+    "question": "A5 is ready to execute a free-throw. He passes the ball to A3 who is standing next to the sideline, but the ball hits the face of B2 who was standing 2m away and not moving.",
+    "answers": {
+      "a": "Suspension to A5. Free-throw for team B.",
+      "b": "Disqualification to A5. Free-throw for team B. Report.",
+      "c": "Play on.",
+      "d": "Disqualification to A5. Free-throw for team B."
+    }
+  },
+  {
+    "id": "8.2",
+    "question": "5 seconds after the end of the first period, A2 who is standing on the playing court, spits B3 in the face.",
+    "answers": {
+      "a": "Suspension to A2.",
+      "b": "A2 will not be punished because this happened during the intermission.",
+      "c": "Disqualification to A2. Team A will start the second half with one player less. Report.",
+      "d": "Disqualification to A2. Team A will start the second half with 4 players. Report."
+    }
+  },
+  {
+    "id": "8.3",
+    "question": "A6 is ready to execute a free-throw. After the whistle he shoots directly on goal and the ball hits the head of B3 who was standing correctly and not moving.",
+    "answers": {
+      "a": "Disqualification to A6. Free-throw for team B. Report.",
+      "b": "Suspension to A6. Free-throw for team B. Report.",
+      "c": "Disqualification to A6. Free-throw for team B."
+    }
+  },
+  {
+    "id": "8.4",
+    "question": "B5 has the ball in his hands. G/K A6 is next to him and pulls the ball clearly out of B5 hands; he shoots at the goal and scores.",
+    "answers": {
+      "a": "2-points goal for team A.",
+      "b": "Free-throw for team B. Suspension to A6.",
+      "c": "Free-throw for team B. Disqualification to A6.",
+      "d": "Free-throw for team B."
+    }
+  },
+  {
+    "id": "8.5",
+    "question": "A5 is ready to execute a 6m-throw, with the ball in hand in the correct position. G/K B is standing next to the goalpost showing that he is protesting against the referee’s decision.",
+    "answers": {
+      "a": "Disqualification to B1. Report.",
+      "b": "Suspension to B1.",
+      "c": "The referees must correct his position before they whistle for the execution of the 6m-throw.",
+      "d": "Nothing illegal since he is standing between the goalposts."
+    }
+  },
+  {
+    "id": "8.6",
+    "question": "Throw-in for team B and when B5 goes 2m out of the court to pick up the ball, A6 who was in the substitution area of his team spits on B5.",
+    "answers": {
+      "a": "Time-out. Disqualification to A6. Team A reduces the number of players by one. Report. Restart with throw-in for team B.",
+      "b": "Time-out. Disqualification to A6. Team A reduces the number of players by one. Report. Restart with free-throw for team B.",
+      "c": "Time-out. Suspension to A6. Restart with throw-in for team B."
+    }
+  },
+  {
+    "id": "8.7",
+    "question": "B9 shoots on goal and the ball goes out. At this moment official B of team B runs in the playing area and protests against the court referee, he throws him the green card to his head and kicks him to his legs.",
+    "answers": {
+      "a": "Time-out. Disqualification to official B. Team B reduces the number of players by one. Restart with G/Keeper-throw for team A.",
+      "b": "Time-out. Disqualification to official B. Team B reduces the number of players by one. Restart with G/Keeper-throw for team A. Report.",
+      "c": "Time-out. Disqualification to official B. Restart with free-throw for team A. Report.",
+      "d": "Time-out. Disqualification to official B. Team B reduces the number of players by one. Restart with free-throw for team A. Report."
+    }
+  },
+  {
+    "id": "8.8",
+    "question": "A2 shoots on goal and the ball goes out. Before G/K B1 executes the throw A2 runs up to the stand and attacks a spectator who was making fun of him.",
+    "answers": {
+      "a": "Time-out. Disqualification to A2. Team A reduces the number of players by one. Restart with G/Keeper-throw for team B.",
+      "b": "Time out. Disqualification to A2. Team A reduces the number of players by one. Restart with G/Keeper-throw for team B. Report.",
+      "c": "Only report. The action was up to the stand with a spectator.",
+      "d": "Time-out. Disqualification to A2. Team A reduces the number of players by one. Restart with free-throw for team B from the place he left the court. Report."
+    }
+  },
+  {
+    "id": "8.9",
+    "question": "B3 tries to score with a spin shot, he misses and the ball goes out. Before A1 executes the throw B5 runs against his teammate B3 because he didn’t pass the ball to him, he pushes him down and kicks him to his legs.",
+    "answers": {
+      "a": "Time-out. Disqualification to B5. Team B reduces the number of players by one. Restart with G/Keeper-throw for team A.",
+      "b": "Time out. Disqualification to B5. Team B reduces the number of players by one. Restart with G/Keeper-throw for team A. Report.",
+      "c": "Only report. The action was against a teammate.",
+      "d": "Time-out. Disqualification to B5. Team B reduces the number of players by one. Restart with free-throw for team A from the place of the action. Report."
+    }
+  },
+  {
+    "id": "8.10",
+    "question": "Which of the following situations can be seen as unsportsmanlike conduct?",
+    "answers": {
+      "a": "Shouting at the player who is taking a 6m-thow.",
+      "b": "Kicking the ball away to delay a free-throw for the opponents.",
+      "c": "Holding on to an opponent by grabbing the uniform.",
+      "d": "If a court player is repeatedly blocking shots with a foot or lower leg.",
+      "e": "Insulting behavior directed to another person.",
+      "f": "Taking revenge after having been fouled."
+    }
+  },
+  {
+    "id": "8.11",
+    "question": "Which of the following situations can be seen as serious unsportsmanlike conduct?",
+    "answers": {
+      "a": "Insulting behavior directed to another person.",
+      "b": "The goalkeeper demonstrates a passive attitude when a 6m-throw has been awarded to the opponents.",
+      "c": "Taking revenge after having been fouled",
+      "d": "Delaying the execution of a formal throw.",
+      "e": "If a player tries to create the (incorrect) impression that an opponent committed an infraction.",
+      "f": "Deliberately throwing the ball at an opponent during a stoppage in the game, unless it is done in such a way that must be regarded as an assault."
+    }
+  },
+  {
+    "id": "8.12",
+    "question": "Free-throw for team A. A3 is ready and the referee whistles for the execution. At this moment and before the ball leaves the hand of A3, A5 hits B2 in the face.",
+    "answers": {
+      "a": "Time-out. Disqualification to A5. Team A will reduce the number of players by one. Restart with free-throw for team A.",
+      "b": "Time-out. Disqualification to A5. Team A will reduce the number of players by one. Restart with free-throw for team B.",
+      "c": "Time-out. Disqualification to A5. Team A will reduce the number of players by one. Restart with free-throw for team A. Report.",
+      "d": "Time-out. Disqualification to A5. Team A will reduce the number of players by one. Restart with free-throw for team B. Report."
+    }
+  },
+  {
+    "id": "9.1",
+    "question": "In a “Shootout” situation after goalkeeper A1 throws the ball to A5, the defending goalkeeper B12 runs out of his own goal area and goes directly to the body of A5 pushing him and thus A5 misses the ball.",
+    "answers": {
+      "a": "Repeat the throw for team A.",
+      "b": "Disqualification of B12. 6m-throw for team A. Only A5 is allowed to execute the throw.",
+      "c": "Disqualification of B12. 6m- throw for team A. Every player who is eligible to play is allowed to execute the throw.",
+      "d": "6m- throw for team B. Suspension of B12."
+    }
+  },
+  {
+    "id": "9.2",
+    "question": "In a “Shootout” situation after goalkeeper A12 throws the ball to A2, the defending goalkeeper B5 runs out of his own goal area, intercepts and catches the ball clearly.",
+    "answers": {
+      "a": "The throw is over. The defending G/K may leave his goal area.",
+      "b": "Disqualification of B5. 6m-throw for team A.",
+      "c": "6m-throw for team A.",
+      "d": "Repeat the throw for team A."
+    }
+  },
+  {
+    "id": "9.3",
+    "question": "G/K A4 is outside of the goal area of team B and shoots the ball into the empty goal. Just before the ball crosses the goal line a spectator hits the ball away to the sideline.",
+    "answers": {
+      "a": "6m-throw for team A.",
+      "b": "Free-throw for team a where A4 shoots the ball.",
+      "c": "2 points goal for team A.",
+      "d": "Throw-in for team B."
+    }
+  },
+  {
+    "id": "9.4",
+    "question": "G/K B1 is just outside of the opponent’s goal area and he throws the ball into the empty goal. Just before the ball enters the goal official A of team A runs and kicks the ball away.",
+    "answers": {
+      "a": "2p goal for team B. Suspension to official A.",
+      "b": "2p goal for team B. Disqualification to official A.",
+      "c": "6m-throw for team B. Disqualification to official A. Report.",
+      "d": "6m-throw for team B. Suspension to official A. Report."
+    }
+  },
+  {
+    "id": "9.5",
+    "question": "A7 scores a goal, the referee A allows it and G/K B1 executes the G/K- throw. The ball goes to B3 and then the referee B whistles. He explains to referee A that the goal is not valid because A7 scores after steps.",
+    "answers": {
+      "a": "The goal disallowed. Free-throw for team B because of steps.",
+      "b": "Goal is valid. Free-throw for team B where the game was interrupted.",
+      "c": "Goal is valid. Repetition of the G/K–throw after whistle.",
+      "d": "The goal disallowed. G/K throw for team B."
+    }
+  },
+  {
+    "id": "9.6",
+    "question": "A3 shoots the ball into the empty goal and just before the ball crosses the goal line the timekeeper whistles and interrupts the game for a faulty substitution from B6.",
+    "answers": {
+      "a": "Time out. Suspension to B6. 6m-throw for team A.",
+      "b": "Time out. Suspension to B6. Free-throw for team A from the point that A3 shot on goal.",
+      "c": "Time out. 1p goal for team A. Suspension to B6. G/K throw for team B.",
+      "d": "Time out. Suspension to B6. Free-throw for team B from the point of the faulty substitution."
+    }
+  },
+  {
+    "id": "9.7",
+    "question": "G/K B1 controls the ball in his goal area. He throws the ball to B3, the ball crosses the goal area line but because of too much wind returns back and goes into the goal.",
+    "answers": {
+      "a": "Repetition of the G/K–throw after whistle.",
+      "b": "Goal for team A. G/K-throw for team B.",
+      "c": "Free-throw for team A 1m from the goal area line."
+    }
+  },
+  {
+    "id": "10.1",
+    "question": "Referee-Throw to begin the first half. All players, except one from each team…",
+    "answers": {
+      "a": "must remain at least three meters away from the referee and position themselves to the side nearest to their own goal.",
+      "b": "must remain at least one meter away from the referee and they are allowed to position themselves anywhere else on the playing court.",
+      "c": "must remain at least three meters away from the referee and they are allowed to position themselves anywhere in the playing court."
+    }
+  },
+  {
+    "id": "10.2",
+    "question": "Referee-throw to begin the second half. The two players who are jumping for the ball shall stand:",
+    "answers": {
+      "a": "At least one meter away from the referee each on the side nearest to his own goal.",
+      "b": "At least three meters away from the referee each on the side nearest to his own goal.",
+      "c": "At least one meter away from the referee and on any side of the playing court.",
+      "d": "Next to the referee each on the side nearest to their own goal."
+    }
+  },
+  {
+    "id": "10.3",
+    "question": "Referee-throw to start the game. The referee throws the ball following a whistle signal. A3 jumps and plays the ball immediately after the ball leaves the hand of the referee and scores a goal.",
+    "answers": {
+      "a": "2 points goal for team A.",
+      "b": "Free-throw for team B.",
+      "c": "Repeat of the referee-throw.",
+      "d": "No goal. Goalkeeper-throw for team B."
+    }
+  },
+  {
+    "id": "10.4",
+    "question": "Referee-throw to start the game. The referee throws the ball and A3 jumps and when the ball is at the highest point he slaps the ball and scores a goal.",
+    "answers": {
+      "a": "2p goal for team A.",
+      "b": "1p goal for team A.",
+      "c": "Free-throw for team B.",
+      "d": "Repetition of the referee-throw."
+    }
+  },
+  {
+    "id": "12.1",
+    "question": "Goalkeeper A12 controls the ball in his own goal area. He tries to throw the ball for a long pass to A3 but the ball goes back into his own goal.",
+    "answers": {
+      "a": "Goal for team B. One point is awarded.",
+      "b": "Goal for team B. Two points are awarded.",
+      "c": "Repeat the goalkeeper throw.",
+      "d": "Free throw for team B."
+    }
+  },
+  {
+    "id": "12.2",
+    "question": "Goalkeeper A1 controls the ball in his own goal area. Then he throws the ball to the playing area, runs after it, picks it up and scores a goal.",
+    "answers": {
+      "a": "Goal. Two points are awarded to team A.",
+      "b": "Free throw for team B.",
+      "c": "Free throw for team B. Suspension of A1.",
+      "d": "Repeat the goalkeeper throw for team A."
+    }
+  },
+  {
+    "id": "12.3",
+    "question": "B2 crosses the opponents’ goal area in possession of the ball. G/K throw for team A. G/K A1 takes the ball and with one foot outside of the goal area, shoots towards the opponents’ goal and scores.",
+    "answers": {
+      "a": "1 point.",
+      "b": "2 points.",
+      "c": "Repetition of the G/K throw.",
+      "d": "Free-throw for team B."
+    }
+  },
+  {
+    "id": "12.4",
+    "question": "G/K B1 catches the ball in his goal area after A7 shot. At this moment B5 spits at A2 just outside of the goal area line.",
+    "answers": {
+      "a": "Time out. Disqualification to B5. Free-throw for team A. Report.",
+      "b": "Time out. Disqualification to B5. Report. Restart with G/K throw for team B.",
+      "c": "Time out. Disqualification to B5.  6m-throw for team A.",
+      "d": "Time out. Disqualification to B5. Report. 6m-throw for team A."
+    }
+  },
+  {
+    "id": "12.5",
+    "question": "A3 shoots on goal and G/K B1 saves and controls the ball. Before the execution of the G/Keeper-throw, B2 who is in the playing area is guilty of an assault against A7.",
+    "answers": {
+      "a": "Time-out. Disqualification to B2. Team B will reduce the number of players by one. Restart with G/Keeper-throw for team B. Report.",
+      "b": "Time-out. Disqualification to B2. Restart with free-throw for team A.",
+      "c": "Time-out. Disqualification to B2. Team B will reduce the number of players by one. Restart with free-throw for team A. Report."
+    }
+  },
+  {
+    "id": "12.6",
+    "question": "B2 shoots on goal and G/K A1 saves and the ball crosses the outer goal line. At this moment official A of team A is protesting against the referees and is guilty for an assault.",
+    "answers": {
+      "a": "Time-out. Disqualification to official A. Team A reduces the number of players by one. Restart with free-throw for team B. Report.",
+      "b": "Time-out. Disqualification to official A. Team A reduces the number of players by one. Restart with G/Keeper-throw for team A. Report.",
+      "c": "Time-out. Disqualification to official A. Team A reduces the number of players by one. Restart with throw-in for team B. Report."
+    }
+  },
+  {
+    "id": "12.7",
+    "question": "G/Keeper-throw for team A. G/K A7 who is 50cm inside his goal area line throws the ball that crosses the goal area line and B2 who is standing 30cm outside the goal area line blocks the ball and scores.",
+    "answers": {
+      "a": "No goal. Suspension to B2. Repetition of the G/Keeper-throw after whistle.",
+      "b": "No goal. Correction of the position of B2. Repetition of the G/Keeper-throw after whistle.",
+      "c": "No goal. Suspension to B2. Free-throw for team A.",
+      "d": "Goal for team B. Restart with G/Keeper-throw for team A."
+    }
+  },
+  {
+    "id": "13.1",
+    "question": "Free-throw for team B. B2 who is standing just outside of team A’s goal area line receives the ball from B4 who executes the free-throw.  He scores a goal.",
+    "answers": {
+      "a": "Goal.",
+      "b": "Free throw for team A.",
+      "c": "Repeat the throw for team B. Correction of B2’s position.",
+      "d": "Free throw for team A. Suspension of B2."
+    }
+  },
+  {
+    "id": "13.2",
+    "question": "Official A of team A protests and gets an oral warning. The oral warning was after the referee had called for a free throw for A. Correct call?",
+    "answers": {
+      "a": "The game commences with the previous situation and team A have their players on court reduced by one.",
+      "b": "The game commences with the previous situation and team A play in full strength on court.",
+      "c": "The game commences with the ball in possession of team B at the middle of the playing area close to the substitution area of the team A that plays in full strength on court.",
+      "d": "The game commences with the ball in possession of team B at the middle of the playing area close to the substitution area of the team A that have their players on court reduced by one."
+    }
+  },
+  {
+    "id": "13.3",
+    "question": "Team B is in possession of the ball and while B3 has the ball in the playing area the referees whistle for a free-throw for team A. After the whistle B3 throws the ball to A2 who is outside of his goal area. B3 already had a suspension.",
+    "answers": {
+      "a": "Normal. No punishment to B3 because the ball went to the team A’s player.",
+      "b": "Time-out. Suspension to B3 which results in a disqualification.",
+      "c": "Disqualification to B3.",
+      "d": "Time-out. Suspension to B3 which results in a disqualification. Report."
+    }
+  },
+  {
+    "id": "13.4",
+    "question": "After a 6m-throw from A4, G/K B1 saves and the ball returns and stops in the middle of the playing area. At this moment the referees whistle for time-out because B1 looks injured. How will the game restart?",
+    "answers": {
+      "a": "Referee-throw where the ball stopped.",
+      "b": "Free-throw for team A.",
+      "c": "Free-throw for team B.",
+      "d": "G/K-throw for team B."
+    }
+  },
+  {
+    "id": "13.5",
+    "question": "A3 has the ball in his hand in the correct position and he is ready to execute a free-throw. Before the referees whistle for the throw, he puts the ball down on the sand and picks it up again after 3 seconds.",
+    "answers": {
+      "a": "Free-throw for team B.",
+      "b": "Normal. Nothing illegal.",
+      "c": "Suspension to A3. Free-throw for team B.",
+      "d": "Only verbal warning to A3. Restart with the free-throw for team A."
+    }
+  },
+  {
+    "id": "13.6",
+    "question": "Team A is in attack and A2 controls the ball on the left side of the playing area. He jumps and throws the ball in the air to the other side inside the opponents’ goal area. A5 runs, jumps and scores inflight but his foot just touches the goal area line.",
+    "answers": {
+      "a": "No goal. Free-throw for team B.",
+      "b": "No goal. G/Keeper-throw for team B.",
+      "c": "2p goal for team A. G/Keeper-throw for team B.",
+      "d": "1p goal for team A. G/Keeper-throw for team B."
+    }
+  },
+  {
+    "id": "13.7",
+    "question": "When the following throws are taken the opponents must remain at least 1m away from the thrower",
+    "answers": {
+      "a": "Free-throw.",
+      "b": "Throw-in.",
+      "c": "6m-throw.",
+      "d": "G/Keeper-throw."
+    }
+  },
+  {
+    "id": "14.1",
+    "question": "A4 is ready to execute a 6m-throw. After the referee’s whistle the ball leaves from his hands and when it is in the air between A4 and G/K B1, A3 who was standing correctly, jumps and scores in flight.",
+    "answers": {
+      "a": "2 points goal for team A.",
+      "b": "Free-throw for team B.",
+      "c": "Repeat of the 6m-throw.",
+      "d": "Goalkeeper-throw for team B."
+    }
+  },
+  {
+    "id": "14.2",
+    "question": "A7 is standing just outside of the goal area line ready to take a 6m - throw. Goalkeeper B1 takes his position 4.5m away from the goal line.",
+    "answers": {
+      "a": "Play on.",
+      "b": "Correction of B1’s position.",
+      "c": "Execution of the throw right after a whistle from one of the referees. In case that B1 saves, A7 will repeat the throw."
+    }
+  },
+  {
+    "id": "14.3",
+    "question": "After a save by the G/K B1 the ball returns in the playing area to B6 who is standing 2 m away of his goal area line, he jumps to throw the ball to the empty goal of team A.  A7 pushes him violently in the back and B6 loses the ball.",
+    "answers": {
+      "a": "6m-throw for team B. Time-out. Suspension to A7.",
+      "b": "6m-throw for team B. Time-out. Disqualification to A7. Report.",
+      "c": "Free-throw for team B. Time-out. Suspension to A7.",
+      "d": "Free-throw for team B. Time out. Disqualification to A7. Report."
+    }
+  },
+  {
+    "id": "14.4",
+    "question": "A2 is just outside of the opponents playing area line alone, ready to shoot on goal, and at this moment, an unwarranted whistle signal comes and A2 stops the action.",
+    "answers": {
+      "a": "Free-throw for team B.",
+      "b": "Free-throw for team A.",
+      "c": "6m-throw for team A.",
+      "d": "G/K-throw for team B."
+    }
+  },
+  {
+    "id": "14.5",
+    "question": "The game is during the night. A7 is alone outside of the opponent’s goal area line ready to shoot on goal. At this moment we have a black out, but A7 shoots and scores a goal.",
+    "answers": {
+      "a": "Goal for team A. When the problem is solved the game restarts with G/K-throw for team B.",
+      "b": "No goal. When the problem is solved the game restarts with 6m-throw for team A.",
+      "c": "No goal. When the problem is solved the game restarts with free-throw for team A.",
+      "d": "No goal. When the problem is solved the game restarts with referee-throw 1m away from the goal area line of team B."
+    }
+  },
+  {
+    "id": "14.6",
+    "question": "B2 is going alone in a fast break and when he is ready to shoot on goal a spectator runs into the court and pushes him down. B2 loses the ball that goes to G/K A1.",
+    "answers": {
+      "a": "6m-throw for team B.",
+      "b": "Free-throw for team B.",
+      "c": "Referee-throw to the point of the action.",
+      "d": "G/Keeper-throw for team A."
+    }
+  },
+  {
+    "id": "14.7",
+    "question": "A2 is ready to execute a 6m-throw, with the ball in hand in the correct position. G/K B6 leaves his goal area for substitution, the referees whistle and call him to return back, but he continues and leaves the court.",
+    "answers": {
+      "a": "Normal. Nothing illegal since is time-out.",
+      "b": "Suspension to B6.",
+      "c": "Disqualification to B6.",
+      "d": "Suspension to official A of team B."
+    }
+  },
+  {
+    "id": "14.8",
+    "question": "A2 executes a 6m-throw. The ball hits the goal and returns to him. He catches the ball and scores with a spin shot.",
+    "answers": {
+      "a": "Free-throw for team B.",
+      "b": "2p goal for team A. G/Keeper-throw for team B.",
+      "c": "Free-throw for team B. Suspension to A2.",
+      "d": "No goal. G/Keeper-throw for team B."
+    }
+  },
+  {
+    "id": "14.9",
+    "question": "B5 executes a 6m-throw. He tries to throw the ball, the ball slips out of his hand, and hits B3 who was standing correctly and goes into the goal of team A.",
+    "answers": {
+      "a": "1p goal for team B.",
+      "b": "Repetition of the 6m-throw.",
+      "c": "Free-throw for team A.",
+      "d": "No goal. G/Keeper-throw for team A."
+    }
+  },
+  {
+    "id": "14.10",
+    "question": "B3 executes a 6m-throw. He tries to throw the ball, the ball slips out of his hand and goes in the air between him and G/K A1. B3 jumps and slaps the ball into the goal.",
+    "answers": {
+      "a": "No goal. Free-throw for team A.",
+      "b": "No goal. G/keeper-throw for team A.",
+      "c": "2p goal for team B.",
+      "d": "1p goal for team B."
+    }
+  },
+  {
+    "id": "14.11",
+    "question": "B5 is ready to execute a 6m-throw. The referee whistles and before the ball leaves his hand, his foot slips under the goal area line, and he throws the ball and scores.",
+    "answers": {
+      "a": "2p goal for team B.",
+      "b": "Repetition of the 6m-throw.",
+      "c": "No goal. Free-throw for team A.",
+      "d": "No goal. G/Keeper-throw for team A."
+    }
+  },
+  {
+    "id": "15.1",
+    "question": "Goalkeeper-throw for team B. Goalkeeper B1 has the ball, jumps up and throws the ball directly and scores a goal against team A.",
+    "answers": {
+      "a": "Repeat the throw.",
+      "b": "Goal. Two points are awarded.",
+      "c": "Free throw for team A.",
+      "d": "Goal. Three points are awarded. (Because the goalkeeper scored a goal “in flight”)."
+    }
+  },
+  {
+    "id": "15.2",
+    "question": "Team A scores a goal. G/K B1 takes the ball from the goal, runs 4 steps, and jumps in the air and shoots the ball at the goal of team A and scores.",
+    "answers": {
+      "a": "Goal. 2 points goal for team B.",
+      "b": "Repeat of the Goalkeeper-throw because the G/K must have one part of a foot in constant contact with the ground.",
+      "c": "Goalkeeper-throw for team A.",
+      "d": "Steps. Free-throw for team A outside the goal area line."
+    }
+  },
+  {
+    "id": "15.3",
+    "question": "Free-throw for team A. B4 is just standing 70cm away from A5 who is ready to execute the free-throw. The referee blows his whistle for the throw and then B4 intervenes.",
+    "answers": {
+      "a": "Suspension to B4. Repeat the free-throw after the whistle.",
+      "b": "Play on.",
+      "c": "Advantage for team A and suspension of B4 in the first interruption."
+    }
+  },
+  {
+    "id": "15.4",
+    "question": "A4 is ready to execute a free-throw. He shoots on goal; the ball hits the goal and returns to the playing area. A4 catches the ball and scores in flight.",
+    "answers": {
+      "a": "Free-throw for team B.",
+      "b": "2p goal for team A.",
+      "c": "Repetition of the free-throw.",
+      "d": "1p goal for team A."
+    }
+  },
+  {
+    "id": "15.5",
+    "question": "B6 is ready to execute a throw-in. He wants to pass the ball to B2 but the ball slips from his hand and falls in the sand 3m away. B6 takes the ball within 2 seconds; he shoots at the goal and scores.",
+    "answers": {
+      "a": "Goal. G/K-throw for team A.",
+      "b": "Free-throw for team A.",
+      "c": "Repetition of the throw-in.",
+      "d": "No goal. G/K-throw for team A."
+    }
+  },
+  {
+    "id": "15.6",
+    "question": "G/K A1 executes a throw-in correctly. He shoots directly at the goal and scores.",
+    "answers": {
+      "a": "2p goal for team A.",
+      "b": "No goal. Repetition of the throw-in.",
+      "c": "Free-throw for team B.",
+      "d": "No goal. G/K-throw for team B."
+    }
+  },
+  {
+    "id": "15.7",
+    "question": "G/K B3 saves the ball after A4 has shot. He tries to pass the ball to B2 but the ball slips from his hand and goes into the goal.",
+    "answers": {
+      "a": "2p goal for team A.",
+      "b": "1p goal for team A.",
+      "c": "Repetition of the G/K-throw.",
+      "d": "Free-throw for team A."
+    }
+  },
+  {
+    "id": "15.8",
+    "question": "Referee-throw to start the game. The referee throws the ball very high and because of too much wind the ball goes into the goal of team B.",
+    "answers": {
+      "a": "1p goal for team A.",
+      "b": "No goal. G/k-throw for team B.",
+      "c": "Repetition of the referee-throw.",
+      "d": "No goal. Free-throw for team A 1m from the goal area line of team B."
+    }
+  },
+  {
+    "id": "15.9",
+    "question": "Free-throw for team A. A2 shoots directly on goal, the ball hits the goal and returns to him. A2 is now 2m inside the playing area and scores with a spin shot.",
+    "answers": {
+      "a": "2p goal for team A. G/Keeper-throw for team B.",
+      "b": "Free-throw for team B from the spot that A2 touches the ball.",
+      "c": "No goal. G/Keeper-throw for team B.",
+      "d": "1p goal for team A. G/Keeper-throw for team B."
+    }
+  },
+  {
+    "id": "15.10",
+    "question": "Free-throw for team B just outside of their goal area. G/Keeper B1 tries to execute the throw and the ball slaps from his hand and goes to his goal.",
+    "answers": {
+      "a": "No goal. Repetition of the free-throw after whistle.",
+      "b": "2-points goal for team A.",
+      "c": "No goal. G/keeper-throw for team B.",
+      "d": "1-point goal for team A."
+    }
+  },
+  {
+    "id": "16.1",
+    "question": "Shoot-Out situation. Team A has only 4 players eligible to play. After the first round (4 and 5 throws) the score is 6-6. In the second round team A plays first and A4 scores a 2 points goal and B2 1-point goal. After awarding the goal, G/K A1 spits at the face of B2.",
+    "answers": {
+      "a": "Team A is the winner. The score in Shoot-Out is 8-7.",
+      "b": "Team B is the winner with 2-0 because team A has now 3 players eligible to play.",
+      "c": "A1 is disqualified. Report.",
+      "d": "Written report to the Authorities."
+    }
+  },
+  {
+    "id": "16.2",
+    "question": "At the end of the second half both teams play with 3 players after a suspension to A5 and a disqualification to B2. The score is 10-10 and the “Golden Goal” situation is used. How will the teams begin the “Golden Goal”?",
+    "answers": {
+      "a": "Team A with 4 players and team B with 3 players.",
+      "b": "Both teams with 3 players.",
+      "c": "Both teams with 4 players except B2.",
+      "d": "Both teams with 4 players except A5 and B2."
+    }
+  },
+  {
+    "id": "16.3",
+    "question": "Suspension of A7 combined with an awarding of a 6m-throw. B3 executes the throw, the G/K saves, and the ball crosses the sideline.",
+    "answers": {
+      "a": "The suspended player may be substituted.",
+      "b": "The suspended player may re-enter the playing court.",
+      "c": "The suspended player may be substituted or re-enter the playing court after the next turnover.",
+      "d": "Team A will continue with one player less."
+    }
+  },
+  {
+    "id": "16.4",
+    "question": "A 6m-throw for team B and suspension to A4 is called. The suspended player or substitute can enter the court:",
+    "answers": {
+      "a": "When team B scores a goal with this 6m-throw.",
+      "b": "When the 6m-throw goes out.",
+      "c": "When after the execution, the G/K saves the shot and the ball goes out crossing the sideline.",
+      "d": "When after the execution, the G/K saves the shot; the ball returns to the playing area and A7 catches the ball.",
+      "e": "When after the execution, the G/K saves the shot; the ball returns to the playing area and B3 catches the ball.",
+      "f": "When after the execution, the ball hits the goal post and goes out crossing the sideline."
+    }
+  },
+  {
+    "id": "16.5",
+    "question": "Official B of team A is guilty for an assault during an intermission. Before the intermission team A played with 4 players.",
+    "answers": {
+      "a": "Verbal caution for official B.",
+      "b": "Suspension to official B. Team A will restart with one player less.",
+      "c": "Disqualification to official B. Team A will continue with 4 players. Report.",
+      "d": "Disqualification to official B. Team A will restart with one player less. Report."
+    }
+  },
+  {
+    "id": "16.6",
+    "question": "Player A8 has a clear chance of scoring but is pushed by B7. He is able to shoot and scores. The referee confirms the goal and suspends B7. How does the match commence?",
+    "answers": {
+      "a": "Team B plays reduced by one player on the court.",
+      "b": "Team B may play with a full team because a goal was scored.",
+      "c": "Team B may play with a full team except B7.",
+      "d": "B7 may re-enter the court or substitutes after the next turnover."
+    }
+  },
+  {
+    "id": "16.7",
+    "question": "The result of the first period is 16:16 but in the last playing situation -just before the final call- A9 is suspended for fouling B4 while he was in possession of the ball. The game commences with the referee throw for the “Golden goal” procedure. How many players of team A may participate?",
+    "answers": {
+      "a": "Team A play reduced by one player. A9 may re-enter the court when his team gets possession of the ball.",
+      "b": "Team A plays in full strength. A9 may participate immediately.",
+      "c": "Team A plays with a full team on the court but without A9 until the first turnover."
+    }
+  },
+  {
+    "id": "16.8",
+    "question": "The two teams and the referees are in the court ready for the referee-throw to start the game. Before the throw B7 spits A2 in the face.",
+    "answers": {
+      "a": "Suspension to B7. Free-throw for team A.  Team B will start the game with one player less.",
+      "b": "Disqualification to B7. Report. Team B is allowed to replace B7 in the match report and begins the game with 4 players on court.  The game will start with a referee-throw.",
+      "c": "Disqualification to B7. Report. Team B will start the game with one player less and is not allowed replacing B7 in the match report. The game will start with a referee-throw."
+    }
+  },
+  {
+    "id": "16.9",
+    "question": "The referee whistles to the end of the first period. After some seconds A3 runs against B4, throws the ball to his head and pushes him to the sand.",
+    "answers": {
+      "a": "Disqualification to A3. Report. Team A will start the second period with one player less.",
+      "b": "Disqualification to A3. Report. Team a will start the second period with 4 players on court.",
+      "c": "Suspension to A3. Team will start the second period with one player less.",
+      "d": "Suspension to A3. Report. Team A will start the second period with 4 players on the court."
+    }
+  },
+  {
+    "id": "16.10",
+    "question": "Just after the end of the first half official B of team A protests against the timekeeper and he throws the green time-out card to her head.",
+    "answers": {
+      "a": "Suspension to official B.",
+      "b": "Disqualification to official B. No more action.",
+      "c": "Disqualification to official B. Report. Team B will start the second period with 4 players.",
+      "d": "Disqualification to official B. Team B will start the second period with one player less."
+    }
+  },
+  {
+    "id": "16.11",
+    "question": "5 minutes after the end of the game, A3 protests against one of the referees, insults him and tries to push him down.",
+    "answers": {
+      "a": "Disqualification to A3.",
+      "b": "Disqualification to A3. Report.",
+      "c": "No action.",
+      "d": "Report."
+    }
+  },
+  {
+    "id": "16.12",
+    "question": "During a fast break G/K A1 runs outside of his goal area to stop B5 who has the ball and tries to shoot at the goal. G/K A1 hits the thrower's arm so he loses the ball.",
+    "answers": {
+      "a": "Free-throw for team B. Suspension to A1.",
+      "b": "Free-throw for team B. Disqualification to A1.",
+      "c": "6m-throw for team B. Suspension to A1.",
+      "d": "6m-throw for team B. Disqualification to A1."
+    }
+  },
+  {
+    "id": "16.13",
+    "question": "A4 is jumping to score inflight just outside of the goal area line and the G/K B12 tries to save the ball jumping towards the opponent (not vertically) just to scare him.",
+    "answers": {
+      "a": "Free-throw for team A. Suspension to B12.",
+      "b": "6m-throw for team A. Disqualification to B12.",
+      "c": "Free-throw for team A. Disqualification to B12.",
+      "d": "6m-throw for team A. Suspension to B12."
+    }
+  },
+  {
+    "id": "16.14",
+    "question": "B3 is just outside of the opponents’ goal area and jumps to shoot at the goal. G/K A1 jumps to save the ball and causes just a physical contact in the air with B3 2m inside his goal area. B3 does not score.",
+    "answers": {
+      "a": "6m-throw for team B. Suspension to A1.",
+      "b": "Free-throw for team B. Suspension to A1.",
+      "c": "6m-throw for team B. Disqualification to A1.",
+      "d": "Free-throw for team B. Disqualification to A1."
+    }
+  },
+  {
+    "id": "16.15",
+    "question": "During the shootout G/K B1 runs outside of his goal area and tries to catch the ball in the air, while A4 is doing the same. B1 hits the arm of A4 so he loses the ball.",
+    "answers": {
+      "a": "6m-throw for team A. Disqualification to B1. Every player eligible to play is allowed to execute this 6m-throw.",
+      "b": "6m-throw for team A. Suspension to B1. Every player eligible to play is allowed to execute this 6m-throw.",
+      "c": "6m-throw for team A. Suspension to B1. Only A4 is allowed to execute this 6m-throw.",
+      "d": "6m-throw for team A. Disqualification to B1. Every player who is in the match report is allowed to execute this 6m-throw."
+    }
+  },
+  {
+    "id": "16.16",
+    "question": "The playing time includes:",
+    "answers": {
+      "a": "Golden Goal.",
+      "b": "Time-outs.",
+      "c": "Breaks.",
+      "d": "Shootout."
+    }
+  },
+  {
+    "id": "16.17",
+    "question": "3 minutes after the beginning of the game and while team B was in possession of the ball, the referees realize that there are 3 officials in the substitution area of team B and whistle for time-out. The “responsible team official” explained that the 3rd person is the President and “Golden sponsor” of the team.",
+    "answers": {
+      "a": "Normal. Nothing illegal because of his function.",
+      "b": "Disqualification to the “responsible team official” of team B. The president may stay in the substitution area.",
+      "c": "Suspension to the “responsible team official” of team B. The President must leave the substitution area.",
+      "d": "Suspension to the “responsible team official” of team B. The President may stay in the substitution area."
+    }
+  },
+  {
+    "id": "16.18",
+    "question": "5 minutes after the beginning of the game and while team B was in possession of the ball, the referees realized that in the substitution area of team B there is a player more than registered and whistle for a time-out. The “responsible team official” explained that the player is injured, and he is just sitting with his teammates.",
+    "answers": {
+      "a": "Normal. Nothing illegal, if the referees are sure that the player is injured.",
+      "b": "Suspension to the “responsible team official” of team B. The player must leave the substitution area.",
+      "c": "Suspension to the “responsible team official” of team B. The player may stay in the substitution area.",
+      "d": "Verbal warning to the “responsible team official” and the player. Report."
+    }
+  },
+  {
+    "id": "16.19",
+    "question": "Which of the following punishments must be explained by the referees in the match report?",
+    "answers": {
+      "a": "Suspension of an official.",
+      "b": "Disqualification of a player.",
+      "c": "Disqualification of an official.",
+      "d": "Disqualification of a player because of second suspension."
+    }
+  },
+  {
+    "id": "16.20",
+    "question": "A2 scores a goal inflight at the first minute of the game, and when the ball is in the goal, G/K B1 attacks A2 who is down on the sand and he kicks him to the head and the body several times.",
+    "answers": {
+      "a": "Time-out. Disqualification to B1. Team B reduces the number of players by one. Report. Restart with G/Keeper-throw for team B.",
+      "b": "Time-out. Disqualification to B1. Team B reduces the number of players by one. Restart with free-throw for team A. Report.",
+      "c": "Time-out. Disqualification to B1. Team B reduces the number of players by one. Restart with G/Keeper-throw for team B."
+    }
+  },
+  {
+    "id": "17.1",
+    "question": "Both referees whistle for the same infraction by A7. The court referee called for a free-throw for team B and suspension of A7 and his partner for a 6m-throw for team B.",
+    "answers": {
+      "a": "6m-throw.",
+      "b": "6m-throw for team B and suspension of A7.",
+      "c": "Free-throw for team B and suspension of A7.",
+      "d": "Joint decision. A time out is obligatory."
+    }
+  },
+  {
+    "id": "17.2",
+    "question": "Who decides which ball will be used?",
+    "answers": {
+      "a": "The responsible team officials of the two teams.",
+      "b": "The referees.",
+      "c": "The coaches of the two teams.",
+      "d": "The delegate."
+    }
+  },
+  {
+    "id": "17.3",
+    "question": "The coin toss is undertaken by:",
+    "answers": {
+      "a": "The first named referee in the presence of the responsible team official for each team.",
+      "b": "The first named referee in the presence of the responsible team official for each team or a team official or player on behalf of the responsible team official.",
+      "c": "One of the referees in the presence of the responsible team official for each team or a team official or player on behalf of the responsible team official and the delegate.",
+      "d": "One of the referees in the presence of the other referee and the responsible team official for each team or a team official or player on behalf of the responsible team official."
+    }
+  },
+  {
+    "id": "17.4",
+    "question": "Referee-throw to start the game. The correct positioning is as follows:",
+    "answers": {
+      "a": "The first named referee positions himself outside the sideline on the opposite side of the table and the other referee positions himself in the center of the playing court.",
+      "b": "The second named referee positions himself outside the sideline on the opposite side of the table and the other referee positions himself in the center of the playing court.",
+      "c": "One referee positions himself outside the sideline next to the table and the other referee positions himself in the center of the playing court.",
+      "d": "One referee positions himself outside the sideline on the opposite side of the table and the other referee positions himself in the center of the playing court."
+    }
+  },
+  {
+    "id": "17.5",
+    "question": "Referee-throw to start the game.",
+    "answers": {
+      "a": "The referee who is outside the sideline whistle first and after the other referee throws the ball.",
+      "b": "The referee who is in the centre of the playing court throws the ball and after the other referee whistles.",
+      "c": "The referee who is in the centre of the playing court throws the ball and after the other referee whistles when a player touches the ball.",
+      "d": "The referee who is in the centre of the playing court throws the ball and after the other referee whistles when the ball has reached its highest point."
+    }
+  },
+  {
+    "id": "17.6",
+    "question": "A4 scores with a spin shot and the line referee awards 2p goal and the court referee 1p goal.",
+    "answers": {
+      "a": "Time-out. 1p goal without any consultation because is the decision of the court referee.",
+      "b": "Time-out. 2p goal without any consultation because is the decision of the goal-line referee.",
+      "c": "Time-out. Consultation between them to reach a joint decision.",
+      "d": "Time-out. Consultation between them to reach a joint decision. If they do not manage to reach a joint decision, then the opinion of the court referee will prevail.",
+      "e": "Time-out. Consultation between them to reach a joint decision. If they do not manage to reach a joint decision, then the opinion of the goal-line referee will prevail."
+    }
+  },
+  {
+    "id": "17.7",
+    "question": "After a collision between A4 and B3 in the playing area the court referee whistles free-throw for team B and the line referee whistles free-throw for team A.",
+    "answers": {
+      "a": "Time-out. Free-throw for team B without any consultation because is the decision of the court referee.",
+      "b": "Time-out. Free-throw for team A without any consultation because is the decision of the goal-line referee.",
+      "c": "Time-out. Consultation between them to reach a joint decision.",
+      "d": "Time-out. Consultation between them to reach a joint decision. If they do not manage to reach a joint decision, then the opinion of the court referee will prevail.",
+      "e": "Time-out. Consultation between them to reach a joint decision. If they do not manage to reach a joint decision, then the opinion of the goal-line referee will prevail."
+    }
+  },
+  {
+    "id": "17.8",
+    "question": "The ball crosses the sideline. The court referee whistles throw-in for team B and the line referee whistles throw-in for team A.",
+    "answers": {
+      "a": "Time-out. Throw-in for team B without any consultation because is the decision of the court referee.",
+      "b": "Time-out. Throw-in for team A without any consultation because is the decision of the goal- line referee.",
+      "c": "Time-out. Consultation between them to reach a joint decision.",
+      "d": "Time-out. Consultation between them to reach a joint decision. If they do not manage to reach a joint decision, then the opinion of the court referee will prevail.",
+      "e": "Time-out. Consultation between them to reach a joint decision. If they do not manage to reach a joint decision, then the opinion of the goal- line referee will prevail."
+    }
+  },
+  {
+    "id": "17.9",
+    "question": "Who is responsible for ensuring after the game that the score sheet (match report) is completed in a correct way?",
+    "answers": {
+      "a": "The first named referee.",
+      "b": "The second named referee.",
+      "c": "Both referees.",
+      "d": "The scorekeeper.",
+      "e": "The delegate."
+    }
+  },
+  {
+    "id": "17.10",
+    "question": "Who is entitled to address the referees during the game?",
+    "answers": {
+      "a": "The respective coaches.",
+      "b": "The respective officials A.",
+      "c": "The respective two officials that are in the substitution areas.",
+      "d": "The respective “responsible team officials”."
+    }
+  },
+  {
+    "id": "17.11",
+    "question": "Who has the right to suspend a game temporarily or permanently?",
+    "answers": {
+      "a": "The organizers after consultation with the referees and the respective coaches.",
+      "b": "The referees.",
+      "c": "The referees in a joint decision with the delegate.",
+      "d": "The referees if the respective “responsible team official” agree."
+    }
+  }
+]
